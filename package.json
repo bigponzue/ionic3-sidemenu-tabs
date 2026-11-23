@@ -9,8 +9,7 @@
     "ionic:build": "npm run build",
     "ionic:serve": "npm run serve",
     "ionic:lint": "npm run lint",
-    "postinstall": "node version.js",
-    "preinstall": "node preinstall.js"
+    "postinstall": "node version.js"
   },
   "dependencies": {
     "@angular/common": "5.0.0",
